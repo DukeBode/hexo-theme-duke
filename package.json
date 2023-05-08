@@ -1,4 +1,23 @@
 {
-  "name": "hexo-theme-duke",
-  "packageManager": "yarn@3.5.1"
+  "name": "@DukeBode/hexo-theme-duke",
+  "description": "",
+  "version": "1.0.2",
+  "scripts": {
+    "test": "echo \"no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DukeBode/hexo-theme-duke.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "issues"
+  },
+  "homepage": "",
+  "packageManager": "yarn@3.5.1",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
