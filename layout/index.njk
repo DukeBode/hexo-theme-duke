@@ -1,0 +1,6 @@
+{% extends "_partials/_layout.njk" %}
+{% block body %}
+{% for post in page.posts %}
+<li>{{ post.title }}</li>
+{% endfor %}
+{% endblock %}
