@@ -1,7 +1,7 @@
 {
   "name": "@DukeBode/hexo-theme-duke",
   "description": "",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "scripts": {
     "test": "echo \"no test specified\""
   },
